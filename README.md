@@ -4,7 +4,7 @@
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY! Wanna reach the same size as the Café does? **Advertise as much as you can!**
 
-Found more? Ask __austinhuang#1076__ for edits. ~~No server owners that hate me kthx~~
+Found more? Ask __Æsc#5466__ for edits. ~~No server owners that hate me kthx~~
 ## Websites
 Sorted in size (Large to Small).
 
@@ -50,6 +50,7 @@ Sorted in size (Large to Small).
 ## Listing Servers
 Unordered.
 
+* [Pandora](https://discord.gg/dyrnkrC) (Just put your server in one category)
 * [Discord Server List](http://discord.me/list) (Ask an admin)
 * [Server Central](https://discord.gg/tNBd92m) (#submit-a-server)
 * [The Portal](https://discord.gg/6HtGJ98) (Just put your server in one category)
@@ -59,4 +60,6 @@ Unordered.
 * [Invite Archive](https://discord.gg/uebwFbf) (Just put your server in one category)
 * [Server Savvy](https://discord.gg/qTgqrUA) (#submit-server)
 * [Advertisement Server](https://discord.gg/3hWkzf5) (#advertise-here)
-* [Pandora](https://discord.gg/dyrnkrC) (Just put your server in one category)
+
+
+Totally didn't copy __austinhuang#1076__
